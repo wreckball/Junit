@@ -1,0 +1,3 @@
+com\example\MavenJunit\IT\MyProjectIT.class
+com\example\MavenJunit\unit\MyClassTest.class
+com\example\MavenJunit\unit\LockTest.class
